@@ -1,0 +1,21 @@
+# Core libraries
+streamlit==1.26.0
+python-dotenv==1.0.1
+pandas==1.3.5
+numpy==1.23.5
+PyMuPDF==1.22.3
+
+# LangChain and Embeddings
+langchain==0.1.16
+langchain-community==0.0.36
+sentence-transformers==2.6.1
+faiss-cpu==1.7.4
+
+# IBM Watsonx
+ibm-watson-machine-learning==1.0.391
+
+# Optional (for performance, parsing, etc.)
+requests==2.31.0
+tqdm==4.66.2
+typing-extensions==4.10.0
+scikit-learn==1.2.2
