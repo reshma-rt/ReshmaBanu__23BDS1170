@@ -1,5 +1,5 @@
 
-📄 Chat with Your Notes
+**📄 Chat with Your Notes**
 
 Chat with Your Notes is an intelligent PDF Q&A bot that lets you upload any document and instantly ask questions about it. Whether it’s lecture notes, research papers, or project reports — this tool helps you **interact with your PDFs using AI**.
 
