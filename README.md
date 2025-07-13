@@ -38,7 +38,7 @@ A Generative AI-powered web app that allows users to upload any PDF (e.g., lectu
 
 ## 📁 Folder Structure
 
-
+```
 Chat_with_Notes/
 │
 ├── app.py
@@ -52,7 +52,7 @@ Chat_with_Notes/
 │   └── chat_bot.py
 └── outputs/
     └── exported_chats/
-
+```
 
 ## 🌐 Live Demo
 
